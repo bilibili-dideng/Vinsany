@@ -1,6 +1,6 @@
 [project]
 name = "Vinsany"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
   { name="dideng", email="3483434955@qq.com" },
 ]
@@ -14,9 +14,12 @@ classifiers = [
 license = "MIT"
 license-files = ["LICENSE*"]
 
+dependencies = [
+    "requests>=2.25"
+]
+
 [project.urls]
 Homepage = "https://github.com/bilibili-dideng/Vinsany"
 Issues = "https://github.com/bilibili-dideng/Vinsany/issues"
-
 
 

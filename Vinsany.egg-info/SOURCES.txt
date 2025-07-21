@@ -1,7 +1,0 @@
-README.md
-pyproject.toml
-Vinsany/__init__.py
-Vinsany.egg-info/PKG-INFO
-Vinsany.egg-info/SOURCES.txt
-Vinsany.egg-info/dependency_links.txt
-Vinsany.egg-info/top_level.txt
