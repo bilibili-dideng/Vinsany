@@ -20,7 +20,6 @@ A lightweight Python utility module for **data processing**, **HTTP requests**, 
 
 - `init()` – Initialize the module
 - `hello()` – Returns `"Hello World"` if initialized
-- `hi()` – Alias of `hello()`
 
 ### `web.py`
 
@@ -39,9 +38,9 @@ A lightweight Python utility module for **data processing**, **HTTP requests**, 
 - `std_dev(data: List[Union[int, float]]) -> float` – Calculate standard deviation
 - `total_sum(data: List[Union[int, float]]) -> Union[int, float]` – Return total sum
 - `analyze_data(*data: Union[int, float]) -> Dict[str, Union[int, float, Dict[Union[int, float], int]]]` – Analyze data to find:
-  - Maximum value
-  - Minimum value
-  - Repeated values and their counts
+- Maximum value
+- Minimum value
+- Repeated values and their counts
 
 ---
 

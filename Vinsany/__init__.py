@@ -14,7 +14,7 @@ def init() -> None:
     global is_init
     is_init = True
 
-def hello() -> str:
+def hello_world() -> str:
     """
     :return: "Hello World"
     """
@@ -22,9 +22,3 @@ def hello() -> str:
         return "Hello World"
     else:
         raise NotInitializedError
-
-def hi() -> None:
-    """
-    :return: "Hello World"
-    """
-    hello()
