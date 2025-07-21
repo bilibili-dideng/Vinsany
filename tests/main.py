@@ -1,0 +1,2 @@
+import Vinsany
+Vinsany.init()
