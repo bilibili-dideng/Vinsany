@@ -16,7 +16,7 @@ license-files = ["LICENSE*"]
 
 [project.urls]
 Homepage = "https://github.com/bilibili-dideng/Vinsany"
-Issues = https://github.com/bilibili-dideng/Vinsany/issues"
+Issues = "https://github.com/bilibili-dideng/Vinsany/issues"
 
 
 
